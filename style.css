@@ -75,7 +75,7 @@ justify-content:center;
 }
 
 .search{
-  background:transparent;
+  background: rgb(17, 17, 51);
   flex:1;
   border:0;
   outline:none; 
